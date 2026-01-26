@@ -4,7 +4,9 @@ title: Home
 permalink: /
 ---
 
-![Personal brand image](/assets/hero.jpg)
+<img src="/assets/hero.jpg" alt="Personal brand image" class="hero" />
+<a class="btn" href="/projects/">View Projects</a>
+<a class="btn-outline" href="/resume/">Resume</a>
 
 ## Hi, I’m Arnela
 Frontend / Junior Full-Stack Developer
