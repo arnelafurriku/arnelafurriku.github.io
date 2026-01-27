@@ -5,8 +5,11 @@ permalink: /
 ---
 
 <img src="/assets/hero.jpg" alt="Personal brand image" class="hero" />
-<a class="btn" href="/projects/">View Projects</a>
-<a class="btn-outline" href="/resume/">Resume</a>
+<div class="hero-actions">
+  <a class="btn" href="/projects/">View Projects</a>
+  <a class="btn-outline" href="/resume/">Resume</a>
+</div>
+
 
 ## Hi, I’m Arnela
 Frontend / Junior Full-Stack Developer
