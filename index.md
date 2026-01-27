@@ -36,7 +36,7 @@ I’m a software developer with experience building responsive web applications 
   </div>
 
   <div class="hero-right">
-    <img class="hero-photo" src="/assets/arnela.jpg" alt="Photo of Arnela" />
+    <img class="hero-photo" src="/assets/arnela1.JPG" alt="Photo of Arnela" />
   </div>
 </div>
 

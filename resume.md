@@ -22,7 +22,12 @@ permalink: /resume/
     <li>Improved application performance through <strong>refactoring, browser caching, and image optimization</strong>.</li>
     <li>Implemented <strong>authentication, routing, and state management</strong> in Angular-based single-page applications.</li>
     <li>Collaborated closely with designers, backend engineers, and QA to resolve production issues.</li>
-  </ul><div class="card">
+  </ul>
+
+  <img src="/assets/sisal.png" alt="Project work at Sisal Hub Albania" class="experience-image" />
+</div>
+
+<div class="card">
   <h3>Frontend Developer — Primus Albania</h3>
   <p class="meta">May 2019 – July 2021</p>
 
