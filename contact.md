@@ -14,8 +14,8 @@ permalink: /contact/
 
     <ul>
       <li>Email: <a href="mailto:youremail@email.com">arnelafurriku@gmail.com</a></li>
-      <li>LinkedIn: <a href="https://linkedin.com/in/arnelacuci" target="_blank">linkedin.com/in/your-profile</a></li>
-      <li>GitHub: <a href="https:https://github.com/arnelafurriku" target="_blank">github.com/yourusername</a></li>
+      <li>LinkedIn: <a href="https://linkedin.com/in/arnelacuci" target="_blank">linkedin.com/in/yarnelacuci</a></li>
+      <li>GitHub: <a href="https:https://github.com/arnelafurriku" target="_blank">github.com/arnelafurriku</a></li>
     </ul>
   </div>
 

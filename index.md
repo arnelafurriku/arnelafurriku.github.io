@@ -28,4 +28,4 @@ permalink: /
 <hr class="section-divider" />
 
 ## Skills
-**JavaScript, React, HTML, CSS, Git/GitHub, Java, Spring Boot, MySQL**
+**JavaScript, React, Angular, HTML, CSS, Git/GitHub, Java, Spring Boot, MySQL**
